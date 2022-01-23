@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/HW34/app/src/main/res/drawable/ic_ao.xml" value="0.13055555555555556" />
+        <entry key="..\:/HW34/app/src/main/res/drawable/ic_caf.xml" value="0.13055555555555556" />
+        <entry key="..\:/HW34/app/src/main/res/drawable/ic_cas.xml" value="0.13055555555555556" />
+        <entry key="..\:/HW34/app/src/main/res/drawable/ic_ceo.xml" value="0.13055555555555556" />
+        <entry key="..\:/HW34/app/src/main/res/drawable/ic_cn.xml" value="0.13055555555555556" />
+        <entry key="..\:/HW34/app/src/main/res/drawable/ic_cna.xml" value="0.13055555555555556" />
+        <entry key="..\:/HW34/app/src/main/res/drawable/ic_coc.xml" value="0.13055555555555556" />
+        <entry key="..\:/HW34/app/src/main/res/drawable/ic_csa.xml" value="0.13055555555555556" />
+        <entry key="..\:/HW34/app/src/main/res/drawable/ic_eg.xml" value="0.13055555555555556" />
+        <entry key="..\:/HW34/app/src/main/res/drawable/ic_es.xml" value="0.13055555555555556" />
+        <entry key="..\:/HW34/app/src/main/res/drawable/ic_gb.xml" value="0.5035714285714286" />
+        <entry key="..\:/HW34/app/src/main/res/drawable/ic_jb.xml" value="0.13055555555555556" />
+        <entry key="..\:/HW34/app/src/main/res/drawable/ic_kg.xml" value="0.13055555555555556" />
+        <entry key="..\:/HW34/app/src/main/res/drawable/ic_kr.xml" value="0.13055555555555556" />
+        <entry key="..\:/HW34/app/src/main/res/drawable/ic_kz.xml" value="0.13055555555555556" />
+        <entry key="..\:/HW34/app/src/main/res/drawable/ic_ly.xml" value="0.13055555555555556" />
+        <entry key="..\:/HW34/app/src/main/res/drawable/ic_mg.xml" value="0.13055555555555556" />
+        <entry key="..\:/HW34/app/src/main/res/drawable/ic_ne.xml" value="0.13055555555555556" />
+        <entry key="..\:/HW34/app/src/main/res/drawable/ic_ro.xml" value="0.13055555555555556" />
+        <entry key="..\:/HW34/app/src/main/res/drawable/ic_ru.xml" value="0.13055555555555556" />
+        <entry key="..\:/HW34/app/src/main/res/drawable/ic_sd.xml" value="0.13055555555555556" />
+        <entry key="..\:/HW34/app/src/main/res/drawable/ic_so.xml" value="0.13055555555555556" />
+        <entry key="..\:/HW34/app/src/main/res/drawable/ic_tn.xml" value="0.13055555555555556" />
+        <entry key="..\:/HW34/app/src/main/res/drawable/ic_tr.xml" value="0.13055555555555556" />
+        <entry key="..\:/HW34/app/src/main/res/drawable/ic_tz.xml" value="0.13055555555555556" />
+        <entry key="..\:/HW34/app/src/main/res/drawable/ic_uz.xml" value="0.13055555555555556" />
+        <entry key="..\:/HW34/app/src/main/res/layout/activity_main.xml" value="0.17916666666666667" />
+        <entry key="..\:/HW34/app/src/main/res/layout/activity_main2.xml" value="0.17916666666666667" />
+        <entry key="..\:/HW34/app/src/main/res/layout/item.xml" value="0.17916666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
